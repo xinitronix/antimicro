@@ -126,6 +126,14 @@
                     </slot>
                 </slots>
             </button>
+            <button index="4">
+                <slots>
+                    <slot>
+                        <code>0x46</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
             <button index="5">
                 <slots>
                     <slot>
